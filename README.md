@@ -34,7 +34,7 @@ Una vez instalado virtualenv, creado tu entornovirtual y activandolo, puedes con
 #### Instalación de dependencias
 Para instalar las dependencias debes ubicarte dentro de tu carpeta apibtc y ejecutar el siguiente comando:
 
-`$ pip install requirements.txt`
+`$ pip install -r requirements.txt`
 
 requirements.txt es el archivo donde se encuentra la lista de dependencias de este proyecto.
 
