@@ -25,13 +25,11 @@ Esta api te permitira conocer un listado de precios del bitcoin en pesos mexican
 Una vez instalado virtualenv, creado tu entornovirtual y activandolo, puedes continuar con los siguientes pasos.
 
 #### Clonar el proyecto
-**Para clonar el proyecto ejecuta los siguientes comandos en tu terminal de comandos (en el orden que se mencionan): **
-
-`$ mkdir apibtc`
-
-`$ cd apibtc`
+** Para clonar el proyecto ejecuta los siguientes comandos en tu terminal de comandos (en el orden que se mencionan): **
 
 `$ git clone https://github.com/josehuerta/APIbtcmxn.git `
+
+`$ cd apibtc`
 
 #### Instalación de dependencias
 Para instalar las dependencias debes ubicarte dentro de tu carpeta apibtc y ejecutar el siguiente comando:
