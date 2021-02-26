@@ -27,7 +27,7 @@ Una vez instalado virtualenv, creado tu entornovirtual y activandolo, puedes con
 #### Clonar el proyecto
 ** Para clonar el proyecto ejecuta los siguientes comandos en tu terminal de comandos (en el orden que se mencionan): **
 
-`$ git clone https://github.com/josehuerta/APIbtcmxn.git `
+`$ git clone https://github.com/josehuerta/apibtc.git `
 
 `$ cd apibtc`
 
